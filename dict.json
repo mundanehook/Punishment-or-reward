@@ -1,0 +1,29 @@
+{
+    "Mala suerte": [
+        {
+            "id":"1",
+            "diff":"1",
+            "card":"Todos toman"
+        },
+        {
+            "id":"2",
+            "diff":"1",
+            "card":"Toma el de la derecha"
+        },
+        {
+            "id":"3",
+            "diff":"1",
+            "card":"Acabate el vaso"
+        }
+    ],
+    "Reto" : [
+        {
+            "id":"1",
+            "dif":"1",
+            "card":"Lame el piso"
+
+        }
+
+
+    ]
+}
