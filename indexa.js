@@ -47,6 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     console.log(playerNames);
 
+    let box = document.getElementById('box');
+    box.innerHTML =  "Advertencia juego no apto para cacorros"
+
     fetchData().then(jsonfile => {
         // Define container and initial box
         const container = document.getElementById('container');
